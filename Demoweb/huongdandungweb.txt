@@ -1,0 +1,7 @@
+- giải nến thư mục dự án 
+- bắt buốc phải có node.js(không có thì phải tải)
+- chạy trên môi trường hay dùng ( ưu tiên vscode)
+- mở terminal và tải thư viện cần thiết 
+- gõ lệnh: npm install
+- chạy: npm run dev
+- nhấn vào link.
